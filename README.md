@@ -1,1 +1,2 @@
-# selenium2
+# SeleniumWebDriverAllCommands
+This repository contains codes that demonstrate Selenium Commands
